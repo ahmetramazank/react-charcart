@@ -42,3 +42,19 @@ The update product screen allows users to modify product information. Changes ma
 
 The sorting and searching functionality allows users to sort products by price and search for specific products based on keywords.
 
+## Usage
+
+To use this application, follow these steps:
+
+1. **Clone the repository to your local machine:**
+   ```
+   git clone https://github.com/ahmetramazank/react-charcart.git
+   ```
+
+2. **Start the development server:**
+   ```
+   npm run dev
+   ```
+
+3. **Open your browser and go to `http://localhost:3000` to view the application.**
+
